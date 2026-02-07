@@ -13,3 +13,17 @@ DerivedDataCache/
 *.opensdf
 *.sdf
 *.db
+# Carpetas del proyecto
+/Docs/
+/Evidence/
+/Marketing/
+/Builds/
+
+# Unreal Engine
+/LEYENDAS_MEXICANAS/Binaries/
+/LEYENDAS_MEXICANAS/Intermediate/
+/LEYENDAS_MEXICANAS/Saved/
+/LEYENDAS_MEXICANAS/DerivedDataCache/
+
+# Logs
+*.log
