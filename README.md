@@ -1,112 +1,110 @@
-\# Leyendas Mexicanas
+Leyendas Mexicanas
+
+
+Equipo
+
+- Eli Adrián Alba Liñan  
+
+- Kennya Briseida Almaguer Acuña  
+
+- Bernardo Asael Sánchez Hernández  
 
 
 
-\## Equipo
-
-\- Eli Adrián Alba Liñan  
-
-\- Kennya Briseida Almaguer Acuña  
-
-\- Bernardo Asael Sánchez Hernández  
-
-
-
-\## Pitch
+ Pitch
 
 Leyendas Mexicanas es un videojuego de acción y sigilo ambientado en la Macroplaza de Monterrey durante la noche. El jugador controla a un mariachi que debe cruzar la ciudad para llegar al Museo del Palacio antes de la medianoche, donde fue contratado para tocar en un evento presidencial. Durante su recorrido se enfrenta a espíritus y leyendas mexicanas que intentan impedir su llegada.
 
 
 
-\## Fantasía principal
+Fantasía principal
 
 Un mariachi enfrentándose a leyendas mexicanas en un entorno urbano nocturno.
 
 
 
-\## Ambientación
+Ambientación
 
-\- Macroplaza de Monterrey  
+- Macroplaza de Monterrey  
 
-\- Escenario nocturno  
+- Escenario nocturno  
 
-\- Ruta urbana delimitada con zonas clave y checkpoints  
+- Ruta urbana delimitada con zonas clave y checkpoints  
 
 
 
-\## Meta del jugador (Victoria)
+Meta del jugador (Victoria)
 
 Llegar al Museo del Palacio antes de las 12:00 a.m. y derrotar o sobrevivir a los tres jefes principales que aparecen a lo largo del recorrido.
 
 
 
-\## Condiciones de derrota
+Condiciones de derrota
 
-\- La vida del jugador llega a 0  
+- La vida del jugador llega a 0  
 
-\- Se agota el tiempo límite (timer)
-
-
-
-\## Mecánicas principales
-
-\- Exploración de una ruta urbana dividida en 2–3 zonas con checkpoints  
-
-\- Combate cuerpo a cuerpo contra jefes con múltiples fases  
-
-\- Sigilo: si el jugador se acerca lentamente por detrás sin ser detectado, puede ejecutar un golpe crítico que inflige daño doble  
+- Se agota el tiempo límite (timer)
 
 
 
-\## Reglas y restricciones
+Mecánicas principales
 
-\- Cada enemigo es progresivamente más difícil  
+- Exploración de una ruta urbana dividida en 2–3 zonas con checkpoints  
 
-\- El jugador pierde vida al recibir daño  
+- Combate cuerpo a cuerpo contra jefes con múltiples fases  
 
-\- El golpe crítico se habilita al recolectar una cantidad específica de amuletos u objetos distribuidos en el mapa y tiene un uso limitado  
-
-
-
-\## Enemigos
-
-\### Enemigo base
-
-\- Espíritus menores o sombras que patrullan el mapa  
+- Sigilo: si el jugador se acerca lentamente por detrás sin ser detectado, puede ejecutar un golpe crítico que inflige daño doble  
 
 
 
-\### Jefes
+Reglas y restricciones
 
-\- La Llorona  
+- Cada enemigo es progresivamente más difícil  
 
-\- El Jinete sin Cabeza  
+- El jugador pierde vida al recibir daño  
 
-\- Fantasma de María Julia  
-
-
-
-\## NPC
-
-\- Policías asustados que alertan al jugador sobre peligros, aportan contexto narrativo y marcan el avance hacia la siguiente zona  
+- El golpe crítico se habilita al recolectar una cantidad específica de amuletos u objetos distribuidos en el mapa y tiene un uso limitado  
 
 
 
-\## Objetivo de rendimiento
+Enemigos
 
-\- 60 FPS estables en hardware de gama media  
+-Enemigo base
+
+- Espíritus menores o sombras que patrullan el mapa  
 
 
 
-\## Métricas a reportar
+Jefes
 
-\- FPS promedio  
+- La Llorona  
 
-\- Tiempo de carga  
+- El Jinete sin Cabeza  
 
-\- Tamaño del build  
+- Fantasma de María Julia  
 
-\- Resolución de texturas  
+
+
+NPC
+
+- Policías asustados que alertan al jugador sobre peligros, aportan contexto narrativo y marcan el avance hacia la siguiente zona  
+
+
+Objetivo de rendimiento
+
+- 60 FPS estables en hardware de gama media  
+
+
+
+Métricas a reportar
+
+- FPS promedio  
+
+- Tiempo de carga  
+
+- Tamaño del build  
+
+- Resolución de texturas  
 
 
 
