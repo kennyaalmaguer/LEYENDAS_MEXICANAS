@@ -2,47 +2,43 @@
 
 
 
-\## Semana 1 – Configuración inicial
+\## Semana 6 – Primer Entrega 
 
 \### Cambios agregados
 
-\- Creación del proyecto en Unreal Engine.
+\- White room
 
-\- Inicialización del repositorio Git.
+\- cargar 6 modelos
 
-\- Configuración de `.gitignore` para Unreal Engine.
+\- 4 Texturas
 
-\- Configuración de Git LFS para manejo de assets pesados.
+\- Camara primera y terecera persona
 
-\- Creación de la estructura base de carpetas del proyecto.
+\- gamepad
+
+\- escala del terreno
 
 
 
 \### Problemas detectados
 
-\- Inclusión inicial de archivos generados automáticamente por Unreal Engine.
-
-\- Presencia de assets de ejemplo (Starter Content) no utilizados.
+\- Difucultad al agregar texturas
 
 
 
 \### Soluciones / optimizaciones aplicadas
 
-\- Eliminación de carpetas generadas (`Intermediate`, `Saved`, `DerivedDataCache`).
-
-\- Ajuste del `.gitignore` para evitar que archivos innecesarios se suban al repositorio.
-
-\- Organización del proyecto para futuras builds y evidencias.
+\- Ponerle colores especificos para percibir la diferencia y sean notorios
 
 
 
 \### Pendientes
 
-\- Definición final de la ruta del mapa y zonas jugables.
+\- Mejorar terreno
 
-\- Implementación del sistema básico de movimiento.
+\- Agregar más modelos
 
-\- Medición inicial de métricas de rendimiento (FPS, tiempos de carga).
+\- NPC
 
 
 
