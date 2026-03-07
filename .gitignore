@@ -13,11 +13,15 @@ DerivedDataCache/
 *.opensdf
 *.sdf
 *.db
-# Carpetas del proyecto
-/Docs/
-/Evidence/
-/Marketing/
-/Builds/
+
+# Builds generados
+Builds/**
+
+# Permitir estructura base
+!Docs/.gitkeep
+!Evidence/.gitkeep
+!Marketing/.gitkeep
+!Builds/.gitkeep
 
 # Unreal Engine
 /LEYENDAS_MEXICANAS/Binaries/
