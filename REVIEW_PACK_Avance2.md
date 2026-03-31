@@ -30,4 +30,8 @@ Notas (máx 5 líneas): qué falta / qué sigue
 
 Por falta de tiempo no se alcanzó a implementar el sistema de guardar/cargar partida.
 También se planea mejorar la ejecución de algunos menús.
-Como siguientes pasos se trabajará en variables de vida del personaje, mejorar la jugabilidad y terminar el entorno del nivel.
+Como siguientes pasos se trabajará en variables de vida del personaje, mejorar la jugabilidad y terminar el entorno del nivel. Asi como día/noche y audio 
+2 tipos de enemigos con comportamientos distintos. 
+ 
+
+ 
