@@ -6,7 +6,7 @@ Link tag/branch: https://github.com/kennyaalmaguer/LEYENDAS_MEXICANAS/releases/t
 
 Link build: https://drive.google.com/file/d/1yuV9-WaknpHgPp9xTSMH_HSb0QpZn_NQ/view?usp=sharing
 
-Link video demo: 
+Link video demo: https://drive.google.com/file/d/16n66-rOcSTuZBo_hADFyphTHB2y-1_FN/view?usp=sharing
 
 Checklist con timecodes del video (min:seg):
 
