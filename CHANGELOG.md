@@ -1,38 +1,36 @@
-\# CHANGELOG
+# CHANGELOG
 
+## Semana 10 – Avance 2
 
+### Cambios agregados
 
-\## Semana 6 – Primer Entrega 
+- Implementación de controles con teclado y gamepad
+- Creación de menú principal funcional
+- Implementación de menú de pausa
+- Ajustes gráficos (calidad y resolución)
+- Integración de 4 animaciones en el entorno
+- Implementación de 6 objetos destruibles
+- Integración de 4 sistemas de partículas
+- Mejoras en la interacción del jugador con el entorno
 
-\### Cambios agregados
+### Problemas detectados
 
-\- White room
+- Falta de tiempo para implementar el sistema de guardar/cargar partida
+- Algunos menús aún requieren optimización en su funcionamiento
 
-\- cargar 6 modelos
+### Soluciones / optimizaciones aplicadas
 
-\- 4 Texturas
+- Organización de widgets para mejorar la navegación entre menús
+- Ajuste de configuraciones gráficas para mejorar el rendimiento
 
-\- Camara primera y terecera persona
+### Pendientes
 
-\- gamepad
-
-\- escala del terreno
-
-
-
-\### Problemas detectados
-
-\- Difucultad al agregar texturas
-
-
-
-\### Soluciones / optimizaciones aplicadas
-
-\- Ponerle colores especificos para percibir la diferencia y sean notorios
-
-
-
-\### Pendientes
+- Implementar sistema de guardar/cargar partida
+- Agregar sistema de vida del personaje
+- Mejorar la jugabilidad
+- Terminar el entorno del nivel
+- Implementar ciclo día/noche
+- Agregar audio ambiental y efectos de sonido
 
 \- Mejorar terreno
 
