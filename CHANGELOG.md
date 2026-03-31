@@ -32,11 +32,5 @@
 - Implementar ciclo día/noche
 - Agregar audio ambiental y efectos de sonido
 
-\- Mejorar terreno
-
-\- Agregar más modelos
-
-\- NPC
-
 
 
