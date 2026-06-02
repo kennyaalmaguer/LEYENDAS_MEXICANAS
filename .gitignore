@@ -2,6 +2,7 @@ Binaries/
 Intermediate/
 Saved/
 DerivedDataCache/
+EJECUTABLE/
 *.sln
 *.suo
 *.vcxproj
@@ -28,6 +29,7 @@ Builds/**
 /LEYENDAS_MEXICANAS/Intermediate/
 /LEYENDAS_MEXICANAS/Saved/
 /LEYENDAS_MEXICANAS/DerivedDataCache/
+/LEYENDAS_MEXICANAS/EJECUTABLE/
 
 # Logs
 *.log
