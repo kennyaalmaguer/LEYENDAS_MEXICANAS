@@ -1,48 +1,36 @@
-\# CHANGELOG
+# CHANGELOG
 
+## Semana 10 – Avance 2
 
+### Cambios agregados
 
-\## Semana 1 – Configuración inicial
+- Implementación de controles con teclado y gamepad
+- Creación de menú principal funcional
+- Implementación de menú de pausa
+- Ajustes gráficos (calidad y resolución)
+- Integración de 4 animaciones en el entorno
+- Implementación de 6 objetos destruibles
+- Integración de 4 sistemas de partículas
+- Mejoras en la interacción del jugador con el entorno
 
-\### Cambios agregados
+### Problemas detectados
 
-\- Creación del proyecto en Unreal Engine.
+- Falta de tiempo para implementar el sistema de guardar/cargar partida
+- Algunos menús aún requieren optimización en su funcionamiento
 
-\- Inicialización del repositorio Git.
+### Soluciones / optimizaciones aplicadas
 
-\- Configuración de `.gitignore` para Unreal Engine.
+- Organización de widgets para mejorar la navegación entre menús
+- Ajuste de configuraciones gráficas para mejorar el rendimiento
 
-\- Configuración de Git LFS para manejo de assets pesados.
+### Pendientes
 
-\- Creación de la estructura base de carpetas del proyecto.
-
-
-
-\### Problemas detectados
-
-\- Inclusión inicial de archivos generados automáticamente por Unreal Engine.
-
-\- Presencia de assets de ejemplo (Starter Content) no utilizados.
-
-
-
-\### Soluciones / optimizaciones aplicadas
-
-\- Eliminación de carpetas generadas (`Intermediate`, `Saved`, `DerivedDataCache`).
-
-\- Ajuste del `.gitignore` para evitar que archivos innecesarios se suban al repositorio.
-
-\- Organización del proyecto para futuras builds y evidencias.
-
-
-
-\### Pendientes
-
-\- Definición final de la ruta del mapa y zonas jugables.
-
-\- Implementación del sistema básico de movimiento.
-
-\- Medición inicial de métricas de rendimiento (FPS, tiempos de carga).
+- Implementar sistema de guardar/cargar partida
+- Agregar sistema de vida del personaje
+- Mejorar la jugabilidad
+- Terminar el entorno del nivel
+- Implementar ciclo día/noche
+- Agregar audio ambiental y efectos de sonido
 
 
 
