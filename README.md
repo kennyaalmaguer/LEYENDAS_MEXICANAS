@@ -13,13 +13,13 @@ Equipo
 
  Pitch
 
-Leyendas Mexicanas es un videojuego de acción y sigilo ambientado en la Macroplaza de Monterrey durante la noche. El jugador controla a un mariachi que debe cruzar la ciudad para llegar al Museo del Palacio antes de la medianoche, donde fue contratado para tocar en un evento presidencial. Durante su recorrido se enfrenta a espíritus y leyendas mexicanas que intentan impedir su llegada.
+Leyendas Mexicanas es un videojuego de acción y sigilo ambientado en la Macroplaza de Monterrey durante la noche. El jugador controla a un mariachi que debe cruzar la Macroplaza para llegar al Museo del Palacio antes de la medianoche, donde fue contratado para tocar en un evento presidencial. Durante su recorrido se enfrenta a espíritus y mounstros que intentan impedir su llegada.
 
 
 
 Fantasía principal
 
-Un mariachi enfrentándose a leyendas mexicanas en un entorno urbano nocturno.
+Un mariachi enfrentándose a mounstros en un entorno urbano nocturno.
 
 
 
@@ -71,23 +71,23 @@ Enemigos
 
 -Enemigo base
 
-- Espíritus menores o sombras que patrullan el mapa  
+- Espíritus menores o policias que patrullan el mapa  
 
 
 
 Jefes
 
-- La Llorona  
+- Mounstro 1  
 
-- El Jinete sin Cabeza  
+- Mounstro 2  
 
-- Fantasma de María Julia  
+- Mounstro 3 
 
 
 
 NPC
 
-- Policías asustados que alertan al jugador sobre peligros, aportan contexto narrativo y marcan el avance hacia la siguiente zona  
+- Civiles asustados que alertan al jugador sobre peligros, aportan contexto narrativo y marcan el avance hacia la siguiente zona  
 
 
 Objetivo de rendimiento
